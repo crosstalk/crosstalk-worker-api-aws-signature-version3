@@ -1,0 +1,26 @@
+{
+  "name": "crosstalk-worker-api-aws-signature-version3",
+  "version": "0.0.0",
+  "description": "Crosstalk worker for generating version 3 AWS signature",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crosstalk/crosstalk-worker-api-aws-signature-version3.git"
+  },
+  "keywords": [
+    "crosstalk",
+    "worker",
+    "aws",
+    "signature",
+    "version 3"
+  ],
+  "author": "Crosstalk Systems Inc. <developers@crxtalk.com>",
+  "maintainers": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "crosstalk": {
+    "type": "worker"
+  },
+  "license": "MIT",
+  "private": true
+}
