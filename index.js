@@ -48,6 +48,7 @@ var version3 = function version3 ( params, callback ) {
 
   return callback( null, {
     authorization : authorizationHeader,
+    date : date,
     signature : signature,
     signatureMethod : SIGNATURE_METHOD,
     signatureVersion : SIGNATURE_VERSION
