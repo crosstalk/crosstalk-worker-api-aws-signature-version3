@@ -11,8 +11,4 @@ crosstalk-worker-api-aws-signature-version3
 
 ## crosstalk.on
 
-[api.aws.signature.version3](/crosstalk/crosstalk-worker-api-aws-signature-version3/wiki/api.aws.signature.version3) - Creates AWS Version 3 signature
-
-## crosstalk.emit
-
-None
+[api.aws.signature.version3](https://github.com/crosstalk/crosstalk-worker-api-aws-signature-version3/wiki/api.aws.signature.version3) - Creates AWS Version 3 signature
